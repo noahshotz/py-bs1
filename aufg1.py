@@ -1,3 +1,6 @@
+# Ein Skript-Aufruf enthalte mehr als zwei Parameter.
+# Schreiben Sie ein Python Skript, das nur die letzten beiden Parameter ausgibt.
+
 import sys
 
 print("Input args: ")
